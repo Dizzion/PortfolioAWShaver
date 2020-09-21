@@ -389,6 +389,10 @@ mark,
 
 .img-fluid {
   max-width: 100%;
+  height: 15rem; }
+
+#inModal {
+  max-width: 100%;
   height: auto; }
 
 .img-thumbnail {
